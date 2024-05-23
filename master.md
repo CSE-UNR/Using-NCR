@@ -1,7 +1,7 @@
 # Using the [Nevada Cyber Range](https://ncr.cse.unr.edu)
 
 ## Logging In
-Credentials should be given to you by your proffessor
+Credentials should be given to you by your Professor
 
 ## Setting Up 2FA
 The first time a user is authenticated, a prompt for setting up multi-factor authentication will be shown, scan this QR code with a compatible app, such as Google Authenticator, Aegis, or Duo
