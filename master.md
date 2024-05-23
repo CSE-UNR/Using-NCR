@@ -1,4 +1,4 @@
-# Using [NCR](https://ncr.cse.unr.edu)
+# Using the [Nevada Cyber Range](https://ncr.cse.unr.edu)
 
 ## Logging In
 Credentials should be given to you by your proffessor
