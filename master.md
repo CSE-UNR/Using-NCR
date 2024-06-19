@@ -5,7 +5,7 @@ Credentials should be given to you by your Professor
 
 ## Setting Up 2FA
 The first time a user is authenticated, a prompt for setting up multi-factor authentication will be shown, scan this QR code with a compatible app, such as Google Authenticator, Aegis, or Duo
- - If you lose the device for access or 2FA is no longer working, email ehelp@engr.unr.edu and we will allow you to re-register with 2FA.
+ - If you lose the device for access or 2FA is no longer working, email ncr@cse.unr.edu and we will allow you to re-register with 2FA.
 
 ## Using Guacamole
 ### Starting a session
